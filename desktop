@@ -1,0 +1,13 @@
+#nvim ~/.local/share/applications/pycharm.desktop
+#chmod +x
+#update-desktop-database ~/.local/share/applications/
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PyCharm
+Icon=/opt/pycharm/bin/pycharm.png
+Exec=/opt/pycharm/bin/pycharm    # 启动脚本路径
+Categories=Development;IDE;
+Terminal=false
+StartupNotify=true
+
