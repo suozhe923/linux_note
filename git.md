@@ -1,3 +1,5 @@
+#the key is in ~/.ssh/id_rsa
+
 - `git help <command>`: get help for a git command
 - `git init`: creates a new git repo, with data stored in the `.git` directory
 - `git status`: tells you what's going on
