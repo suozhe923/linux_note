@@ -90,4 +90,4 @@ v motion :w FILENAME 可将当前编辑文件中可视模式下选中的内容�
 
 当输入 : 命令时，按 CTRL-D 可以查看可能的补全结果。
 按 <TAB> 可以使用一个补全。
-
+v , gc to toggle the comment
