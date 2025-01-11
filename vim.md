@@ -1,4 +1,3 @@
-# vim
 :options可进行配置options
 :! 紧接着外部命令可以执行该外部命令
 i : insert
