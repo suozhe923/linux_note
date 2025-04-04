@@ -1,0 +1,17 @@
+- space+f : file picker
+- space+s : search base on lsp （%列名查找）
+- space+d : 诊断
+- "[ +d" or "] + d" 在诊断间跳转
+- space+r : rename based on lsp
+- ctrl+c : 注释 like //
+- m+i+( : match inside () 
+- m+r+( : match surround and replace
+- g+d : go to defination
+- g+r : give you a picker of all the places where the identifier is
+- ctrl+o : 回到跳转前停留的位置
+- ctrl+i  : 与ctrl+o方向相反
+- space+j : picker give you 按定义跳转的path
+- g+w : 将所有单词用两个字母当作标签用来跳转
+- ]+f: 跳转到下一个函数
+- alt+o/i : 在语法树上下移动，例如在函数内部alt+o,可以选取行，重复可选取整个函数
+- space+y/p复制粘贴（系统剪切板）
