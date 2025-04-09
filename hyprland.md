@@ -1,0 +1,2 @@
+- desktop
+	- exec=fish -i -c "command" (此写法可以保证command使用fish的环境变量，对electron软件启用fcitx5有帮助：)
